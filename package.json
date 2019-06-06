@@ -1,0 +1,20 @@
+{
+  "name": "reportbot",
+  "version": "0.0.1",
+  "description": "report bot for csgo",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "8.4.0"
+  },
+  "author": "An Idiot's Guide",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^10.0.1",
+    "express": "^4.17.1",
+    "http": "0.0.0"
+  }
+}
